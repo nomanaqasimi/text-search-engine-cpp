@@ -1,0 +1,27 @@
+apple banana mango orange apple grape
+banana apple mango mango strawberry
+orange apple banana grape grape apple
+
+mango banana apple strawberry strawberry
+apple apple apple banana
+grape mango orange banana apple
+
+strawberry banana mango apple
+orange orange apple banana grape
+apple mango strawberry banana
+
+grape apple apple mango
+banana strawberry orange apple
+mango apple banana apple
+
+apple banana mango orange grape
+strawberry apple banana mango
+apple apple banana banana
+
+orange mango grape apple
+banana apple strawberry mango
+apple banana apple apple
+
+grape mango banana apple
+strawberry orange apple banana
+apple mango banana grape
